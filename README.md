@@ -13,7 +13,7 @@ I'm a passionate software developer with a strong foundation in full stack devel
 
 ## Technical Skills
 
-- **Languages:** Python, Java, JavaScript, TypeScript
+- **Languages:** Python, Java, JavaScript, TypeScript, Kotlin
 - **Web Development:** HTML, CSS, Node.js, React, Next.js, Tailwind CSS
 - **Databases:** MySQL, SQLite, MongoDB
 - **Tools:** Git, GitHub, Agile/Scrum, REST APIs, Testing, Debugging
